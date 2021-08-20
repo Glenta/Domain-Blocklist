@@ -1,6 +1,6 @@
-# Title: glenta Blocklist
+# Title: glenta's Domain Blocklist
 # Custom blocklist made from debugging DNS queries
-# Last Updated: January 8, 2021 EST
+# Last Updated: August 20, 2021 EDT
 
 # Ad domains for SoundCloud
 promoted.soundcloud.com
