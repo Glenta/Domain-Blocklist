@@ -1,18 +1,22 @@
 # Title: glenta's Domain Blocklist
 # Custom blocklist made from debugging DNS queries
-# Last Updated: August 20, 2021 EDT
+# Last Updated: October 18, 2021
 
 # Ad domains for SoundCloud
 promoted.soundcloud.com
 z.moatads.com
 
-# Fake Discord domains
+# Fake Discord redirect domains
 dlcordapp.com
 dircordapp.com
 www.dlcordapp.com
 www.dircordapp.com
 cdn.dlcordapp.com
 cdn.dircordapp.com
+
+# Discord Phishing
+discordd.gift
+www.discordd.gift
 
 # Rick Roll
 thisworldthesedays.com
