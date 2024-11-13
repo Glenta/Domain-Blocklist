@@ -1,6 +1,6 @@
 # Title: glenta's Domain Blocklist
 # Custom blocklist made from debugging DNS queries
-# Last Updated: April 18, 2024
+# Last Updated: November 12, 2024
 
 # Ad domains for SoundCloud
 promoted.soundcloud.com
@@ -49,6 +49,7 @@ usps-help-a.com
 uspsagency.sbs
 lpjjsg.top
 vexuel.top
+usps.com-tarbaec.xyz
 
 # Navy Federal Credit Union Phishing
 c-services.com
