@@ -1,0 +1,59 @@
+# Title: glenta's Domain Blocklist
+# Custom blocklist made from debugging DNS queries
+# Last Updated: December 22, 2024
+
+# Ad domains for SoundCloud
+promoted.soundcloud.com
+z.moatads.com
+
+# Fake Discord redirect domains
+dlcordapp.com
+dircordapp.com
+www.dlcordapp.com
+www.dircordapp.com
+cdn.dlcordapp.com
+cdn.dircordapp.com
+
+# Discord Phishing
+discordd.gift
+
+# Rick Roll
+thisworldthesedays.com
+tomorrowtides.com
+theraleighregister.com
+sanfransentinel.com
+
+# Spreads false information, see hot honey water articles
+timesofindia.indiatimes.com
+healthshots.com
+
+# Walmart Email Phishing
+walmart-billings.com
+
+# Video Ads from blitz.gg
+video.primis.tech
+
+# Netflix Phishing
+ntfllxaprl.com
+
+# BofA Phishing
+b0a-userhelpns01.com
+
+# USPS Phishing
+badsend.top
+usptrackcr.top
+postheypm.com
+usspls.top
+usps-update.cc
+usps-help-a.com
+uspsagency.sbs
+lpjjsg.top
+vexuel.top
+usps.com-tarbaec.xyz
+updateinfotxjkx.top
+
+# Navy Federal Credit Union Phishing
+c-services.com
+
+# Fake Giveaway
+offassizes.sbs
